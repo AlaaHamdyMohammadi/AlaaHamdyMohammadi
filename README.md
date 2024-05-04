@@ -52,6 +52,6 @@
 <h2 align="center" style="display: inline-block">Connect With Me🤝</h2>
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alaahamdy25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alaahamdy25/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alaahamdy25/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=alaahamdymohammadi&label=Profile%20views&color=0e75b6&style=flat" alt="alaahamdymohammadi" /> </p>
 </p>
